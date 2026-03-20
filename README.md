@@ -140,8 +140,8 @@ Stellar level 3/
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/stellar-payment-dapp-level3.git
-cd "stellar-payment-dapp-level3/frontend"
+git clone https://github.com/Samruddhi2805/Stellar-Level3.git
+cd "Stellar-Level3/frontend"
 npm install
 ```
 
@@ -330,7 +330,7 @@ To verify the contract:
  **[0:39 - 0:42]Falied Transaction Message**
 
  
-> 🎬 **Demo video link**: [https://drive.google.com/drive/u/0/my-drive]  
+> 🎬 **Demo video link**: _Add your Google Drive / YouTube link here after recording the demo_  
 
 ---
 
