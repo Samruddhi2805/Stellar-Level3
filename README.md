@@ -330,7 +330,7 @@ To verify the contract:
  **[0:39 - 0:42]Falied Transaction Message**
 
  
-> 🎬 **Demo video link**:- "C:\Users\sam\Downloads\StellarLevel3 SR.mp4"
+> 🎬 **Demo video link**:- 
 
 ---
 
