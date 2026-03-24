@@ -334,6 +334,36 @@ To verify the contract:
 
 ---
 
+**Important Screenshots:-**
+
+User Interface:-
+<img width="1920" height="1080" alt="Screenshot (120)" src="https://github.com/user-attachments/assets/2ec23009-21ed-49fe-8f36-39bf5b318091" />
+
+Wallet Connection:-
+<img width="1920" height="1080" alt="Screenshot (124)" src="https://github.com/user-attachments/assets/df4656b6-ae5a-4861-859f-a7c7b8e22677" />
+
+Wallet Connection Successfully Done:-
+<img width="1920" height="1080" alt="Screenshot (126)" src="https://github.com/user-attachments/assets/5ca0e42d-61e1-4408-af06-12fb6db86747" />
+
+Making a Transaction:-
+<img width="1920" height="1080" alt="Screenshot (127)" src="https://github.com/user-attachments/assets/7c04e781-27d8-4235-93d1-54e713f8f57f" />
+
+Waiting for Wallet Signature:-
+<img width="1920" height="1080" alt="Screenshot (128)" src="https://github.com/user-attachments/assets/e9f5d027-7e63-40cb-b0e0-deff03946d3c" />
+
+First Transaction Successfully Done:-
+<img width="1920" height="1080" alt="Screenshot (129)" src="https://github.com/user-attachments/assets/8fee9a4c-c9c0-4a33-9df0-875a369d7963" />
+
+**Error Handling**:-
+1.Transaction Rejected:
+<img width="1920" height="1080" alt="Screenshot (130)" src="https://github.com/user-attachments/assets/70933ef5-8f5e-414a-9835-b9b68b40a328" />
+
+2.Insufficient Balance:-
+<img width="1920" height="1080" alt="Screenshot (131)" src="https://github.com/user-attachments/assets/67eddf32-3d2a-4461-a1dd-a0a7a0c9b570" />
+
+---
+
+
 ## 🔄 Error Handling
 
 The dApp handles all 3 mandatory error types:
